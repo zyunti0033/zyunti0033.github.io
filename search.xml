@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>RocketMQ-3</title>
+      <link href="2021/06/04/RocketMQ-3/"/>
+      <url>2021/06/04/RocketMQ-3/</url>
+      
+        <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 消息中间件 </tag>
+            
+            <tag> RocketMQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>RocketMQ-2</title>
+      <link href="2021/06/04/RocketMQ-2/"/>
+      <url>2021/06/04/RocketMQ-2/</url>
+      
+        <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 消息中间件 </tag>
+            
+            <tag> RocketMQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>RocketMQ-1</title>
+      <link href="2021/06/04/RocketMQ-1/"/>
+      <url>2021/06/04/RocketMQ-1/</url>
+      
+        <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 消息中间件 </tag>
+            
+            <tag> RocketMQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2021/06/03/hello-world/"/>
+      <url>2021/06/03/hello-world/</url>
+      
+        <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>

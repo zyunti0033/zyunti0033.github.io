@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Siri Zhang</title>
+  
+  <subtitle>记录编程</subtitle>
+  <link href="https://zyunti0033.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zyunti0033.github.io/"/>
+  <updated>2021-06-03T20:46:16.926Z</updated>
+  <id>https://zyunti0033.github.io/</id>
+  
+  <author>
+    <name>Siri Zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RocketMQ-3</title>
+    <link href="https://zyunti0033.github.io/2021/06/04/RocketMQ-3/"/>
+    <id>https://zyunti0033.github.io/2021/06/04/RocketMQ-3/</id>
+    <published>2021-06-03T17:24:55.161Z</published>
+    <updated>2021-06-03T20:46:16.926Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-高级功能&quot;&gt;&lt;a href=&quot;#1-高级功能&quot; class=&quot;headerlink&quot; title=&quot;1. 高级功能&quot;&gt;&lt;/a&gt;1. 高级功能&lt;/h1&gt;&lt;h2 id=&quot;1-1-消息存储&quot;&gt;&lt;a href=&quot;#1-1-消息存储&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="消息中间件" scheme="https://zyunti0033.github.io/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+    <category term="RocketMQ" scheme="https://zyunti0033.github.io/tags/RocketMQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RocketMQ-2</title>
+    <link href="https://zyunti0033.github.io/2021/06/04/RocketMQ-2/"/>
+    <id>https://zyunti0033.github.io/2021/06/04/RocketMQ-2/</id>
+    <published>2021-06-03T17:24:54.438Z</published>
+    <updated>2021-06-03T20:46:02.386Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-案例介绍&quot;&gt;&lt;a href=&quot;#1-案例介绍&quot; class=&quot;headerlink&quot; title=&quot;1. 案例介绍&quot;&gt;&lt;/a&gt;1. 案例介绍&lt;/h1&gt;&lt;h2 id=&quot;1-1-业务分析&quot;&gt;&lt;a href=&quot;#1-1-业务分析&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="消息中间件" scheme="https://zyunti0033.github.io/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+    <category term="RocketMQ" scheme="https://zyunti0033.github.io/tags/RocketMQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RocketMQ-1</title>
+    <link href="https://zyunti0033.github.io/2021/06/04/RocketMQ-1/"/>
+    <id>https://zyunti0033.github.io/2021/06/04/RocketMQ-1/</id>
+    <published>2021-06-03T17:21:09.229Z</published>
+    <updated>2021-06-03T20:47:24.349Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-MQ介绍&quot;&gt;&lt;a href=&quot;#1-MQ介绍&quot; class=&quot;headerlink&quot; title=&quot;1. MQ介绍&quot;&gt;&lt;/a&gt;1. MQ介绍&lt;/h1&gt;&lt;p&gt;##1.1 为什么要用MQ&lt;/p&gt;
+&lt;p&gt;消息队列是一种“先进先出”的数据结构&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="消息中间件" scheme="https://zyunti0033.github.io/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+    <category term="RocketMQ" scheme="https://zyunti0033.github.io/tags/RocketMQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zyunti0033.github.io/2021/06/03/hello-world/"/>
+    <id>https://zyunti0033.github.io/2021/06/03/hello-world/</id>
+    <published>2021-06-03T04:01:57.146Z</published>
+    <updated>2021-06-03T20:28:04.321Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;很开心这是我的第一个网站，我希望可以在这个网站上面分享一些自己学习的笔记，以及学习中遇到的困难，如果你有兴趣或者说你有什么好的文章都可以推荐给我，请在下方评论区留言，让我们一起努力共同进步&lt;/p&gt;
+&lt;h2 id=&quot;2021-06-04&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
