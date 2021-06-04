@@ -6,7 +6,7 @@
   <link href="https://zyunti0033.github.io/atom.xml" rel="self"/>
   
   <link href="https://zyunti0033.github.io/"/>
-  <updated>2021-06-03T20:46:16.926Z</updated>
+  <updated>2021-06-04T14:54:50.477Z</updated>
   <id>https://zyunti0033.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://zyunti0033.github.io/2021/06/04/RocketMQ-3/"/>
     <id>https://zyunti0033.github.io/2021/06/04/RocketMQ-3/</id>
     <published>2021-06-03T17:24:55.161Z</published>
-    <updated>2021-06-03T20:46:16.926Z</updated>
+    <updated>2021-06-04T14:54:50.477Z</updated>
     
     
       
@@ -33,6 +33,8 @@
       
     
     
+    
+    <category term="JAVA" scheme="https://zyunti0033.github.io/categories/JAVA/"/>
     
     
     <category term="消息中间件" scheme="https://zyunti0033.github.io/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
@@ -46,7 +48,7 @@
     <link href="https://zyunti0033.github.io/2021/06/04/RocketMQ-2/"/>
     <id>https://zyunti0033.github.io/2021/06/04/RocketMQ-2/</id>
     <published>2021-06-03T17:24:54.438Z</published>
-    <updated>2021-06-03T20:46:02.386Z</updated>
+    <updated>2021-06-04T14:54:23.013Z</updated>
     
     
       
@@ -58,6 +60,8 @@
       
     
     
+    
+    <category term="JAVA" scheme="https://zyunti0033.github.io/categories/JAVA/"/>
     
     
     <category term="消息中间件" scheme="https://zyunti0033.github.io/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
@@ -71,7 +75,7 @@
     <link href="https://zyunti0033.github.io/2021/06/04/RocketMQ-1/"/>
     <id>https://zyunti0033.github.io/2021/06/04/RocketMQ-1/</id>
     <published>2021-06-03T17:21:09.229Z</published>
-    <updated>2021-06-03T20:47:24.349Z</updated>
+    <updated>2021-06-04T14:53:48.036Z</updated>
     
     
       
@@ -86,6 +90,8 @@
     
     
     
+    <category term="JAVA" scheme="https://zyunti0033.github.io/categories/JAVA/"/>
+    
     
     <category term="消息中间件" scheme="https://zyunti0033.github.io/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
     
@@ -98,7 +104,7 @@
     <link href="https://zyunti0033.github.io/2021/06/03/hello-world/"/>
     <id>https://zyunti0033.github.io/2021/06/03/hello-world/</id>
     <published>2021-06-03T04:01:57.146Z</published>
-    <updated>2021-06-03T20:28:04.321Z</updated>
+    <updated>2021-06-04T14:55:25.202Z</updated>
     
     
       
@@ -111,6 +117,8 @@
       
     
     
+    
+    <category term="杂记" scheme="https://zyunti0033.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
   </entry>

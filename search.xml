@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
       
       
+      <categories>
+          
+          <category> JAVA </category>
+          
+      </categories>
+      
       
         <tags>
             
@@ -31,6 +37,12 @@
       
         <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
       
+      
+      <categories>
+          
+          <category> JAVA </category>
+          
+      </categories>
       
       
         <tags>
@@ -53,6 +65,12 @@
         <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
       
       
+      <categories>
+          
+          <category> JAVA </category>
+          
+      </categories>
+      
       
         <tags>
             
@@ -73,6 +91,12 @@
       
         <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
       
+      
+      <categories>
+          
+          <category> 杂记 </category>
+          
+      </categories>
       
       
     </entry>

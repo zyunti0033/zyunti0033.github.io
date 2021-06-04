@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="标签: 消息中间件, JAVA,Linux等...">
+    <meta name="keywords" content="分类: JAVA, JAVA,Linux等...">
     <meta name="description" content="总结学习经验，记录生活点滴">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>标签: 消息中间件 | Siri Zhang</title>
+    <title>分类: JAVA | Siri Zhang</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -397,44 +397,46 @@
 
     
 
-<div id="tags" class="container chip-container">
+<div id="category-cloud" class="container chip-container">
     <div class="card">
         <div class="card-content">
             <div class="tag-title center-align">
-                <i class="fas fa-tags"></i>&nbsp;&nbsp;文章标签
+                <i class="fas fa-bookmark"></i>&nbsp;&nbsp;文章分类
             </div>
             <div class="tag-chips">
                 
                 
-                <a href="/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/" title="消息中间件: 3">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-active "
-                            data-tagname="消息中间件" style="background-color: #F9EBEA;">消息中间件
-                        <span class="tag-length">3</span>
-                    </span>
-                </a>
                 
-                
-                <a href="/tags/RocketMQ/" title="RocketMQ: 3">
+                <a href="/categories/%E6%9D%82%E8%AE%B0/" title="杂记: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="RocketMQ" style="background-color: #F5EEF8;">RocketMQ
+                            style="background-color: #F9EBEA;">杂记
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/categories/JAVA/" title="JAVA: 3">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-active "
+                            style="background-color: #F5EEF8;">JAVA
                         <span class="tag-length">3</span>
                     </span>
                 </a>
+                
                 
             </div>
         </div>
     </div>
 </div>
 
+
     
 
     <article id="articles" class="container articles">
         <div class="row tags-posts">
             
-            
-            <div class="article tag-post col s12 m6 l4" data-tags="消息中间件, RocketMQ" data-aos="fade-up">
+            <div class="article tag-post col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
                     <a href="/2021/06/04/RocketMQ-3/">
                         <div class="card-image tag-image">
@@ -445,6 +447,17 @@
                         </div>
                     </a>
                     <div class="card-content article-content">
+                        <div class="summary block-with-text">
+                            
+                                1. 高级功能1.1 消息存储分布式队列因为有高可靠性的要求，所以数据要进行持久化存储。
+
+
+消息生成者发送消息
+MQ收到消息，将消息进行持久化，在存储中新增一条记录
+返回ACK给生产者
+MQ push 消息给对应的消费者，然后等待消费者返
+                            
+                        </div>
                         <div class="publish-info">
                             <span class="publish-date">
                                 <i class="far fa-clock fa-fw icon-date"></i>2021-06-04
@@ -454,18 +467,31 @@
                                 <i class="fas fa-bookmark fa-fw icon-category"></i>
                                 
                                 <a href="/categories/JAVA/" class="post-category">
-                                JAVA
+                                    JAVA
                                 </a>
                                 
                                 
                             </span>
                         </div>
                     </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/">
+                            <span class="chip bg-color">消息中间件</span>
+                        </a>
+                        
+                        <a href="/tags/RocketMQ/">
+                            <span class="chip bg-color">RocketMQ</span>
+                        </a>
+                        
+                    </div>
+                    
                 </div>
             </div>
             
-            
-            <div class="article tag-post col s12 m6 l4" data-tags="消息中间件, RocketMQ" data-aos="fade-up">
+            <div class="article tag-post col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
                     <a href="/2021/06/04/RocketMQ-2/">
                         <div class="card-image tag-image">
@@ -476,6 +502,19 @@
                         </div>
                     </a>
                     <div class="card-content article-content">
+                        <div class="summary block-with-text">
+                            
+                                1. 案例介绍1.1 业务分析模拟电商网站购物场景中的【下单】和【支付】业务
+###1）下单
+
+
+用户请求订单系统下单
+订单系统通过RPC调用订单服务下单
+订单服务调用优惠券服务，扣减优惠券
+订单服务调用调用库存服务，校验并扣减库存
+订单服
+                            
+                        </div>
                         <div class="publish-info">
                             <span class="publish-date">
                                 <i class="far fa-clock fa-fw icon-date"></i>2021-06-04
@@ -485,18 +524,31 @@
                                 <i class="fas fa-bookmark fa-fw icon-category"></i>
                                 
                                 <a href="/categories/JAVA/" class="post-category">
-                                JAVA
+                                    JAVA
                                 </a>
                                 
                                 
                             </span>
                         </div>
                     </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/">
+                            <span class="chip bg-color">消息中间件</span>
+                        </a>
+                        
+                        <a href="/tags/RocketMQ/">
+                            <span class="chip bg-color">RocketMQ</span>
+                        </a>
+                        
+                    </div>
+                    
                 </div>
             </div>
             
-            
-            <div class="article tag-post col s12 m6 l4" data-tags="消息中间件, RocketMQ" data-aos="fade-up">
+            <div class="article tag-post col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
                     <a href="/2021/06/04/RocketMQ-1/">
                         <div class="card-image tag-image">
@@ -507,6 +559,18 @@
                         </div>
                     </a>
                     <div class="card-content article-content">
+                        <div class="summary block-with-text">
+                            
+                                1. MQ介绍##1.1 为什么要用MQ
+消息队列是一种“先进先出”的数据结构
+
+其应用场景主要包含以下3个方面
+
+应用解耦
+
+系统的耦合性越高，容错性就越低。以电商应用为例，用户创建订单后，如果耦合调用库存系统、物流系统、支付系统，任何一
+                            
+                        </div>
                         <div class="publish-info">
                             <span class="publish-date">
                                 <i class="far fa-clock fa-fw icon-date"></i>2021-06-04
@@ -516,13 +580,27 @@
                                 <i class="fas fa-bookmark fa-fw icon-category"></i>
                                 
                                 <a href="/categories/JAVA/" class="post-category">
-                                JAVA
+                                    JAVA
                                 </a>
                                 
                                 
                             </span>
                         </div>
                     </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/">
+                            <span class="chip bg-color">消息中间件</span>
+                        </a>
+                        
+                        <a href="/tags/RocketMQ/">
+                            <span class="chip bg-color">RocketMQ</span>
+                        </a>
+                        
+                    </div>
+                    
                 </div>
             </div>
             
