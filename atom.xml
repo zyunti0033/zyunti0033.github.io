@@ -75,14 +75,14 @@
     <link href="https://zyunti0033.github.io/2021/06/04/RocketMQ-1/"/>
     <id>https://zyunti0033.github.io/2021/06/04/RocketMQ-1/</id>
     <published>2021-06-03T17:21:09.229Z</published>
-    <updated>2021-06-04T15:34:04.265Z</updated>
+    <updated>2021-06-04T15:58:07.948Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;1-MQ介绍&quot;&gt;&lt;a href=&quot;#1-MQ介绍&quot; class=&quot;headerlink&quot; title=&quot;1. MQ介绍&quot;&gt;&lt;/a&gt;1. MQ介绍&lt;/h1&gt;&lt;p&gt;##1.1 为什么要用MQ&lt;/p&gt;
+    <summary type="html">&lt;h1 id=&quot;1-MQ介绍&quot;&gt;&lt;a href=&quot;#1-MQ介绍&quot; class=&quot;headerlink&quot; title=&quot;1. MQ介绍&quot;&gt;&lt;/a&gt;1. MQ介绍&lt;/h1&gt;&lt;p&gt;##1.1为什么要用MQ&lt;/p&gt;
 &lt;p&gt;消息队列是一种“先进先出”的数据结构&lt;/p&gt;
 &lt;p&gt;&lt;img</summary>
         
