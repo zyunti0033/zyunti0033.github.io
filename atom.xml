@@ -6,7 +6,7 @@
   <link href="https://zyunti0033.github.io/atom.xml" rel="self"/>
   
   <link href="https://zyunti0033.github.io/"/>
-  <updated>2021-06-04T14:57:09.106Z</updated>
+  <updated>2021-06-04T14:54:50.477Z</updated>
   <id>https://zyunti0033.github.io/</id>
   
   <author>
@@ -15,48 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="https://zyunti0033.github.io/2021/06/04/public/newPost/"/>
-    <id>https://zyunti0033.github.io/2021/06/04/public/newPost/</id>
-    <published>2021-06-04T14:57:08.256Z</published>
-    <updated>2021-06-04T14:57:09.106Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">{&quot;title&quot;:&quot;RocketMQ-3&quot;,&quot;id&quot;:&quot;2021/06/04/RocketMQ-3/&quot;,&quot;date_published&quot;:&quot;06/04/2021&quot;,&quot;summary&quot;:&quot;&quot;,&quot;url&quot;:&quot;https://zyunti0033.github.io/2021/06/0</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://zyunti0033.github.io/2021/06/04/public/webpushr-sw/"/>
-    <id>https://zyunti0033.github.io/2021/06/04/public/webpushr-sw/</id>
-    <published>2021-06-04T14:57:08.256Z</published>
-    <updated>2021-06-04T14:57:09.106Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">importScripts(&#39;https://cdn.webpushr.com/sw-server.min.js&#39;);</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>RocketMQ-3</title>
@@ -117,7 +75,7 @@
     <link href="https://zyunti0033.github.io/2021/06/04/RocketMQ-1/"/>
     <id>https://zyunti0033.github.io/2021/06/04/RocketMQ-1/</id>
     <published>2021-06-03T17:21:09.229Z</published>
-    <updated>2021-06-04T14:53:48.036Z</updated>
+    <updated>2021-06-04T15:34:04.265Z</updated>
     
     
       
@@ -146,7 +104,7 @@
     <link href="https://zyunti0033.github.io/2021/06/03/hello-world/"/>
     <id>https://zyunti0033.github.io/2021/06/03/hello-world/</id>
     <published>2021-06-03T04:01:57.146Z</published>
-    <updated>2021-06-04T14:55:25.202Z</updated>
+    <updated>2021-06-04T15:35:13.284Z</updated>
     
     
       
@@ -160,7 +118,7 @@
     
     
     
-    <category term="杂记" scheme="https://zyunti0033.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
+    <category term="essays" scheme="https://zyunti0033.github.io/categories/essays/"/>
     
     
   </entry>

@@ -4,32 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="2021/06/04/public/newPost/"/>
-      <url>2021/06/04/public/newPost/</url>
-      
-        <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="2021/06/04/public/webpushr-sw/"/>
-      <url>2021/06/04/public/webpushr-sw/</url>
-      
-        <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>RocketMQ-3</title>
       <link href="2021/06/04/RocketMQ-3/"/>
       <url>2021/06/04/RocketMQ-3/</url>
@@ -120,7 +94,7 @@
       
       <categories>
           
-          <category> 杂记 </category>
+          <category> essays </category>
           
       </categories>
       
