@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>JUC</title>
+      <link href="2021/06/10/JUC/"/>
+      <url>2021/06/10/JUC/</url>
+      
+        <content type="html"><![CDATA[{$ post.content | noControlChars | safe $}]]></content>
+      
+      
+      <categories>
+          
+          <category> JUC </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JUC </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>RocketMQ-3</title>
       <link href="2021/06/04/RocketMQ-3/"/>
       <url>2021/06/04/RocketMQ-3/</url>
